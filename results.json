@@ -1,0 +1,58 @@
+[
+    {
+        "income": [
+            {
+                "rental_income": 0,
+                "self_employed_income": 0,
+                "gross_annual_income": 70000,
+                "income_tax": 12137,
+                "medicare_levy": 1400,
+                "negative_gearing_tax_effect": 0,
+                "self_employed_add_backs": 0
+            }
+        ],
+        "net_annual_income": 56463.0,
+        "liability_repayments": [],
+        "home_loans": [
+            {
+                "assessment_rate": 5.1,
+                "total_repayments": 1629
+            }
+        ],
+        "total_existing_repayments": 0,
+        "total_proposed_repayments": 1629,
+        "net_cash_position": 76.25,
+        "debt_to_income_ratio": 4.29,
+        "maximum_borrowing_capacity": 314025
+    },
+    {
+        "income": [
+            {
+                "rental_income": 0,
+                "self_employed_income": 0,
+                "gross_annual_income": 0,
+                "income_tax": 0,
+                "medicare_levy": 0,
+                "negative_gearing_tax_effect": 0,
+                "self_employed_add_backs": 0
+            }
+        ],
+        "net_annual_income": 0,
+        "liability_repayments": [
+            {
+                "total_repayments": 0
+            }
+        ],
+        "home_loans": [
+            {
+                "assessment_rate": 0,
+                "total_repayments": 0
+            }
+        ],
+        "total_existing_repayments": 0,
+        "total_proposed_repayments": 0,
+        "net_cash_position": 0,
+        "debt_to_income_ratio": 0,
+        "maximum_borrowing_capacity": 0
+    }
+]
