@@ -16,7 +16,6 @@ const MAX_CAPACITY_TOLERANCE = 10;
 // Feel free to neaten up this function if you're bothered by WET code...
 function checkCalculator(scenarioIndex) {
     scenarioIndex = Number(scenarioIndex);
-
     const calc_results = calculateResults(scenarios[scenarioIndex]);
     const excel_results = results[scenarioIndex];
 
