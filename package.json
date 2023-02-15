@@ -1,4 +1,7 @@
 {
+    "scripts": {
+        "start": "node checkCalc.js 0 --watch"
+    },
     "dependencies": {
         "lodash": "^4.17.20"
     }
